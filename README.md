@@ -15,6 +15,7 @@ LessonOne
 # Run frontend as spring boot project
 
 ## Build your Maven project, right click root project, Maven-Install
+![build_maven](https://user-images.githubusercontent.com/56694905/130377847-e61a032d-3c9a-4382-97ac-9e8060708aa6.PNG)
 
 
 
